@@ -1,2 +1,2 @@
 
-### Programs written using Pandas Functions - Assisgnments during my course
+### Programs written using Python Functions - Assisgnments during my course
