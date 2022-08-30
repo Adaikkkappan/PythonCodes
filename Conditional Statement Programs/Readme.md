@@ -1,2 +1,2 @@
 
-### Programs written using Python Conditional Statement - Assisgnments during my course
+### Programs written using Python Conditional Statements - Assisgnments during my course
